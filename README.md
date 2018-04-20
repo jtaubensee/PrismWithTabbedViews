@@ -1,2 +1,2 @@
 # PrismWithTabbedViews
-Sharing context between Prism Tabbed pages.
+Hello world from Prism for Xamarin.Forms
